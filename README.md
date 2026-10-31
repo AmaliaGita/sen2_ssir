@@ -1,4 +1,5 @@
 # Sen2-SSIR
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23838496.svg)](https://doi.org/10.5281/zenodo.23838496)
 This source code is official implementation for "An Inception-Residual Sentinel-2 Single-Image Super-Resolution Model for Enhancing Ecological Analysis in Taiwan".
 
 Sen2-SSIR super-resolves the six native 20 m Sentinel-2 L2A bands (B5, B6,
